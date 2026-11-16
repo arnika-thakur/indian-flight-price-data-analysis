@@ -152,6 +152,6 @@ This project demonstrates an end-to-end data analysis workflow using Indian dome
 
 ---
 
-**Author:** Munish  
+**Author:** Arnika  
 **Project Type:** Data Analytics | Exploratory Data Analysis  
 **Tools:** Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn
